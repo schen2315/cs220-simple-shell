@@ -1,1 +1,1 @@
-## This is the simple shell in C example from CS220 lesson on processes
+This is the simple shell in C example from CS220 lesson on processes
